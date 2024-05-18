@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/language-app/static/css/main.ae87cfaa.css",
+    "main.js": "/language-app/static/js/main.bd72358a.js",
+    "index.html": "/language-app/index.html",
+    "main.ae87cfaa.css.map": "/language-app/static/css/main.ae87cfaa.css.map",
+    "main.bd72358a.js.map": "/language-app/static/js/main.bd72358a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae87cfaa.css",
+    "static/js/main.bd72358a.js"
+  ]
+}
